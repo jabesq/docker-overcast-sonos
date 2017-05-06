@@ -17,7 +17,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends\
 
 RUN git clone -n https://github.com/jacobian/overcast-sonos.git
 WORKDIR overcast-sonos
-RUN git checkout master
+RUN git checkout fb48c47096ef7d9b79313219ecda82cfde86c204
 
 RUN pip install -r requirements.txt
 
