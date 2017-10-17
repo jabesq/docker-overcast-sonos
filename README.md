@@ -1,7 +1,7 @@
 # Docker image for Overcast-Sonos
 Play Overcast podcasts on your Sonos from Docker
 
-This is a container for Overcast Sonos.
+This is a container for [Overcast Sonos](https://github.com/jacobian/overcast-sonos).
 Overcast-Sonos create a Sonos service to play Overcast podcasts on your Sonos.
 
 ## Running the container
